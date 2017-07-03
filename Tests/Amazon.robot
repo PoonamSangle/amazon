@@ -11,7 +11,7 @@ ${SEARCH_TERM} =  Ferrari 4581
 
 *** Test Cases ***
 Logged out user can search for products
-    [Tags]  Current cwdcwdc  poonam
+    [Tags]  Current cwdcwdc  poonam sangle
     Amazon.Search for Products
 
 Logged out user can view a product
