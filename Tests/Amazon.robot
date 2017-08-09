@@ -7,7 +7,7 @@ Resource  Resources/Amazon.robot  # for lower level keywords in test cases
 *** Variables ***
 ${BROWSER} =  ie
 ${START_URL} =  https://www.amazon.com
-${SEARCH_TERM} =  Ferrari 4581
+${SEARCH_TERM} =  Ferrari 45811
 
 *** Test Cases ***
 Logged out user can search for products
